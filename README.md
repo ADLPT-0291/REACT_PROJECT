@@ -45,3 +45,17 @@ npm install
 ```bash
 npm run build
 ```
+
+## tổ chức thư mục 
+1. Compoments
+2. Templates
+3. Pages
+4. Routes
+5. Store 
+6. Hooks - (Hiện tại thì ít sử dụng)
+7. Common
+    7.1 Utils
+    7.2 Helpers
+    7.3 Constants
+8. Services
+9. 
