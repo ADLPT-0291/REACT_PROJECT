@@ -59,3 +59,24 @@ npm run build
     7.3 Constants
 8. Services
 9. 
+## library cần dùng trong dự án
+- react - router
+- tailwindcss
+- redux
+- formik
+- lucide-react(icon)
+- librảy UI chưa sử dụng(...)
+- axios (call api - đỡ cực hơn khi sử dụng so với fetch) 
+
+## kiểm tra thư viện nào bị uot dated
+```bash
+npm outdate
+```
+-update thủ công những cái cần up
+- npm i "react"@latest : "react" thư viện càn update
+
+c2 : dùng thư viện update
+ npx npm-check-updates -i
+ # chọn thì nhấp space 
+ lưu ý nên bỏ các eslint
+ # enter để tiếp tục
